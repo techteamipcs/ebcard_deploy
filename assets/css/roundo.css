@@ -1,0 +1,110 @@
+/**
+ * @license
+ *
+ * Font Family: Roundo
+ * Designed by: Indian Type Foundry
+ * URL: https://www.fontshare.com/fonts/roundo
+ * © 2022 Indian Type Foundry
+ *
+ * Font Styles:
+ * Roundo Variable(Variable font)
+ * Roundo Extra Light
+ * Roundo Light
+ * Roundo Regular
+ * Roundo Medium
+ * Roundo Semi Bold
+ * Roundo Bold
+ *
+*/
+
+
+/**
+* This is a variable font
+* You can controll variable axes as shown below:
+* font-variation-settings: 'wght' 200.0;
+*
+* available axes:
+
+* 'wght' (range from 200.0 to 700.0)
+
+*/
+
+@font-face {
+  font-family: 'Roundo-Variable';
+  src: url('../web-fonts/Roundo-Variable.woff2') format('woff2'),
+       url('../web-fonts/Roundo-Variable.woff') format('woff'),
+       url('../web-fonts/Roundo-Variable.ttf') format('truetype');
+       font-weight: 200 700;
+       font-display: swap;
+       font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Roundo-ExtraLight';
+  src: url('../web-fonts/Roundo-ExtraLight.woff2') format('woff2'),
+       url('../web-fonts/Roundo-ExtraLight.woff') format('woff'),
+       url('../web-fonts/Roundo-ExtraLight.ttf') format('truetype');
+       font-weight: 200;
+       font-display: swap;
+       font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Roundo-Light';
+  src: url('../web-fonts/Roundo-Light.woff2') format('woff2'),
+       url('../web-fonts/Roundo-Light.woff') format('woff'),
+       url('../web-fonts/Roundo-Light.ttf') format('truetype');
+       font-weight: 300;
+       font-display: swap;
+       font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Roundo-Regular';
+  src: url('../web-fonts/Roundo-Regular.woff2') format('woff2'),
+       url('../web-fonts/Roundo-Regular.woff') format('woff'),
+       url('../web-fonts/Roundo-Regular.ttf') format('truetype');
+       font-weight: 400;
+       font-display: swap;
+       font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Roundo-Medium';
+  src: url('../web-fonts/Roundo-Medium.woff2') format('woff2'),
+       url('../web-fonts/Roundo-Medium.woff') format('woff'),
+       url('../web-fonts/Roundo-Medium.ttf') format('truetype');
+       font-weight: 500;
+       font-display: swap;
+       font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Roundo-SemiBold';
+  src: url('../web-fonts/Roundo-SemiBold.woff2') format('woff2'),
+       url('../web-fonts/Roundo-SemiBold.woff') format('woff'),
+       url('../web-fonts/Roundo-SemiBold.ttf') format('truetype');
+       font-weight: 600;
+       font-display: swap;
+       font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Roundo-Bold';
+  src: url('../web-fonts/Roundo-Bold.woff2') format('woff2'),
+       url('../web-fonts/Roundo-Bold.woff') format('woff'),
+       url('../web-fonts/Roundo-Bold.ttf') format('truetype');
+       font-weight: 700;
+       font-display: swap;
+       font-style: normal;
+}
+
+body{
+  font-family: 'Roundo-Regular' !important;
+}
