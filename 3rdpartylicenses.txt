@@ -122,6 +122,9 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 ng6-toastr-notifications
 
+ngx-device-detector
+MIT
+
 ngx-owl-carousel-o
 MIT
 
