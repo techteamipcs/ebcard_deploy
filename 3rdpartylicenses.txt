@@ -200,9 +200,6 @@ ng6-toastr-notifications
 ngx-captcha
 MIT
 
-ngx-color-picker
-MIT
-
 ngx-device-detector
 MIT
 
