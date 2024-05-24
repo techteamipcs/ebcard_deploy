@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iOS 8.1.1//EN
+FN;CHARSET=UTF-8:Mariane De Guzman
+N;CHARSET=UTF-8:De Guzman;Mariane;;Ms.;
+NICKNAME;CHARSET=UTF-8:Mariane
+NOTE:
+ORG:MABA Corporate Services Provider LLC
+TITLE:co-founder 
+item1.EMAIL;type=INTERNET:m.deguzman@maba-csp.com
+item1.X-ABLabel:MABA Corporate Services
+TEL;type=IPHONE;type=CELL;type=VOICE:+971 52 995 3559
+TEL;type=IPHONE;type=WORK;type=VOICE:+971 52 995 3559
+item3.URL;type=pref:https://www.maba-csp.com/
+item3.X-ABLabel:MABA Corporate Services
+END:VCARD
+
+
