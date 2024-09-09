@@ -1,9 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iOS 8.1.1//EN
-FN:Khwaja Banda Nawaz Betageri
-N:Khwaja Banda Nawaz Betageri
-NICKNAME:KBN
+FN;CHARSET=UTF-8:Khwaja Banda Nawaz
+N;CHARSET=UTF-8:Betgeri;Khwaja Banda Nawaz; ;
+NICKNAME;CHARSET=UTF-8:KBN
 NOTE:
 ORG:Pixtar
 TITLE:Co-Founder & Creative Director
